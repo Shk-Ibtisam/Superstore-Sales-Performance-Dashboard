@@ -128,4 +128,5 @@ a full state-by-state sales ranking.
 
 👤 Author : Muhammad Ibtisam
 Data Analyst | Power BI · SQL · Python · Excel
-🔗 LinkedIn | GitHub
+mibtisam6968@gmail.com
+🔗 https://www.linkedin.com/in/muhammad-ibtisam-shk/ | GitHub
